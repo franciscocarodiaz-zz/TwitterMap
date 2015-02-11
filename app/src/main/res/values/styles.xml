@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="actionBarStyle">@style/ActionBar.Solid.TwitterMap</item>
+    </style>
+    <!-- ActionBar style -->
+    <style name="ActionBar.Solid.TwitterMap"
+        parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="background">@color/twittermap_blue</item>
+    </style>
+    <!-- Main activity theme -->
+    <style name="TwitterMapTheme" parent="AppTheme">
+        <item name="actionBarStyle">@style/ActionBar.Solid.TwitterMap.NoTitle</item>
+    </style>
+    <!-- Main activity action bar style -->
+    <style name="ActionBar.Solid.TwitterMap.NoTitle"
+        parent="@style/ActionBar.Solid.TwitterMap">
+        <item name="displayOptions">useLogo|showHome</item>
+        <item name="logo">@drawable/ic_launcher</item>
+    </style>
+
+    <style name="ForecastListStyle"></style>
+
+</resources>
