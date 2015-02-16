@@ -26,11 +26,8 @@ public class Const {
     public static final String RESPONSE_URL_EXTRA = "url";
     public static final String RESPONSE_RESULT_EXTRA = "url";
 
-    public static final String CONSUMER_KEY = "qplA5SoMHLhkNeWbzudXQ9ESm";
-    public static final String CONSUMER_SECRET = "xOrmaEFkBR17S5Vz8WJ9JOsAzOshZsKeM9AMjdH52hbkclT3Wf";
-
-    public static final String ACCESS_TOKEN = "499259672-WVzatN0F8qaMy66kG6IR08eScv24og3m7iVTXNQo";
-    public static final String ACCESS_TOKEN_SECRET = " K1fBw96KYLVootxUwENfu3ooADodwD6xdYCJkwNJlwmAI";
+    public static final String CONSUMER_KEY = "XXXXXX";
+    public static final String CONSUMER_SECRET = "XXXXXX";
 
     public final static String TwitterTokenURL = "https://api.twitter.com/oauth2/token";
     public final static String TwitterSearchURL = "https://api.twitter.com/1.1/search/tweets.json?count=300&q=";
