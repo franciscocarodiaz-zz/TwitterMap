@@ -1,0 +1,12 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <EditTextPreference
+        android:title="@string/pref_time_reload_label"
+        android:key="@string/pref_time_reload_key"
+        android:defaultValue="@string/pref_time_reload_default"
+        android:inputType="text"
+        android:singleLine="true" />
+
+</PreferenceScreen>

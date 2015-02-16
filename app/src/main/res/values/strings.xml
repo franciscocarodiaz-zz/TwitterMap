@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Alert message-->
+    <string name="alert_ok">Ok</string>
+    <string name="alert_title_con_error">Internet Connection Error</string>
+    <string name="alert_message_con_error">Please connect to working Internet connection</string>
+    <string name="alert_ok_connect">Connect</string>
+    <string name="alert_twitter_title">Connect with twitter</string>
+    <string name="alert_twitter_message">Please connect with your twitter user to this</string>
+    <string name="search_for">Searching for :</string>
+
     <string name="app_name">FCDTwitterMap</string>
     <string name="title_activity_twitter_map">Twitter map</string>
 
@@ -20,9 +29,9 @@
 
 
     <!-- SyncAdapter related -->
-    <string name="sync_account_type">fcdtwittermap.fcd.com.fcdtwittermap</string>
-    <string name="sync_authority">"fcdtwittermap.fcd.com.fcdtwittermap"</string>
+    <string name="sync_account_type">fcd.com.twittermap</string>
+    <string name="sync_authority">"fcd.com.twittermap"</string>
 
     <!-- SyncAdapter related -->
-    <string name="content_authority">fcdtwittermap.fcd.com.fcdtwittermap</string>
+    <string name="content_authority">fcd.com.twittermap</string>
 </resources>
