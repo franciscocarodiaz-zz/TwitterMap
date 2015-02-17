@@ -14,3 +14,5 @@ What I have used for this project?
 - How to create new Activities and how to navigate between them, Intents and Services (Broadcast Intents and Broadcast Receivers).
 - How to use Content Providers and Loaders to Persist and Recover Data.
 - Next challenges: Use Services and Notifications to Run in the Background.
+
+Apk file added "TwitterMap-app-release.apk" to test app. 

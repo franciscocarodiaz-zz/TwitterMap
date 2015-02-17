@@ -34,4 +34,5 @@
 
     <!-- SyncAdapter related -->
     <string name="content_authority">fcd.com.twittermap</string>
+    <string name="action_search">Search</string>
 </resources>
